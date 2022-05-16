@@ -46,8 +46,6 @@ github.com/golang/protobuf/ptypes/timestamp
 github.com/google/btree
 # github.com/google/uuid v1.1.1
 github.com/google/uuid
-# github.com/gorilla/handlers v1.4.2
-github.com/gorilla/handlers
 # github.com/gorilla/mux v1.7.3
 github.com/gorilla/mux
 # github.com/gorilla/schema v1.1.0
@@ -364,7 +362,7 @@ gopkg.in/natefinch/lumberjack.v2
 gopkg.in/olivere/elastic.v5
 gopkg.in/olivere/elastic.v5/config
 gopkg.in/olivere/elastic.v5/uritemplates
-# gopkg.in/yaml.v2 v2.2.3
+# gopkg.in/yaml.v2 v2.2.8
 gopkg.in/yaml.v2
 # willnorris.com/go/gifresize v1.0.0
 willnorris.com/go/gifresize
